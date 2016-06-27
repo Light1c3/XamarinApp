@@ -27,7 +27,6 @@ namespace WebRequestTutorial
     class CreateContactDialog : DialogFragment
     {
         private Button mButtonCreateContact;
-        private Button mButtonMenu;
         private EditText txtName;
         private DatePicker txtDatePicker;
 

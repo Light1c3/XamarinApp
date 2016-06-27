@@ -19,6 +19,7 @@ namespace WebRequestTutorial
     public class MainActivity : Activity
     {
         private ListView mListView;
+        private Button mButtonMenu;
         private BaseAdapter<Contact> mAdapter;
         private List<Contact> mContacts;
         private ImageView mSelectedPic;
